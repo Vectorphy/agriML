@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# Log files
+*.log
+
+# Data files (for this project)
+*.mat
