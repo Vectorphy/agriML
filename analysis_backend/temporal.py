@@ -1,3 +1,9 @@
+# Author: Jules
+#
+# © 2025 Jules
+# This software is licensed under the MIT License.
+# See the LICENSE file for more details.
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

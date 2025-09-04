@@ -1,3 +1,9 @@
+# Author: Jules
+#
+# © 2025 Jules
+# This software is licensed under the MIT License.
+# See the LICENSE file for more details.
+
 import scipy.io
 import numpy as np
 
