@@ -1,3 +1,9 @@
+# Author: Jules
+#
+# © 2025 Jules
+# This software is licensed under the MIT License.
+# See the LICENSE file for more details.
+
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
